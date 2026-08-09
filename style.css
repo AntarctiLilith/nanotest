@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container div {
+    margin: 5px;
+}
+
+.Player {
+  width: calc(1920px/4);
+  height: calc(1080px/4);
+}
+
+.topLeft{
+  position: relative;
+  color: white;
+  text-shadow: 2px 2px 4px black;
+  top: 8px;
+  text-align: center;
+  font-size: 35px;
+  z-index: 1;
+}
