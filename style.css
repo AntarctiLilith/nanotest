@@ -1,92 +1,64 @@
 .container {
-  display: flex;
-  flex-wrap: wrap;
+	display: flex;
+	flex-wrap: wrap
 }
-
 .container div {
-  margin: 5px;
+	margin: 5px
 }
-
 .Player {
-  width: calc(1920px/4);
-  height: calc(1080px/4);
+	height: 270px;
+	width: 480px
 }
-
 .tg {
-  border-collapse: collapse;
-  border-color: #9ABAD9;
-  border-spacing: 0;
-  margin: 0px auto;
+	border-collapse: collapse;
+	border-color: #9abad9;
+	border-spacing: 0;
+	margin: 0 auto
 }
-
 .tg td {
-  background-color: #EBF5FF;
-  border-color: #9ABAD9;
-  border-style: solid;
-  border-width: 1px;
-  color: #444;
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-  overflow: hidden;
-  padding: 10px 5px;
-  word-break: normal;
+	background-color: #ebf5ff;
+	color: #444
 }
-
+.tg td, .tg th {
+	border: 1px solid #9abad9;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	overflow: hidden;
+	padding: 10px 5px;
+	word-break: normal
+}
 .tg th {
-  background-color: #409cff;
-  border-color: #9ABAD9;
-  border-style: solid;
-  border-width: 1px;
-  color: #fff;
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-  font-weight: normal;
-  overflow: hidden;
-  padding: 10px 5px;
-  word-break: normal;
+	background-color: #409cff;
+	color: #fff;
+	font-weight: 400
 }
-
 .tg .tg-baqh {
-  text-align: center;
-  vertical-align: top
+	text-align: center;
+	vertical-align: top
 }
-
-.tg .tg-j0tj {
-  background-color: #D2E4FC;
-  text-align: center;
-  vertical-align: top
+.tg .tg-0s81, .tg .tg-j0tj {
+	background-color: #d2e4fc;
+	text-align: center;
+	vertical-align: top
 }
-
-.tg .tg-0s81 {
-  background-color: #D2E4FC;
-  text-align: center;
-  text-decoration: underline;
-  vertical-align: top
+.tg .tg-0s81, .tg .tg-if35 {
+	text-decoration: underline
 }
-
 .tg .tg-if35 {
-  text-align: center;
-  text-decoration: underline;
-  vertical-align: top
+	text-align: center;
+	vertical-align: top
 }
-
-@media screen and (max-width: 767px) {
-  .tg {
-    width: auto !important;
-  }
-
-  .tg col {
-    width: auto !important;
-  }
-
-  .tg-wrap {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    margin: auto 0px;
-  }
+@media screen and (max-width:767px) {
+	.tg, .tg col {
+		width: auto !important
+	}
+	.tg-wrap {
+		overflow-x: auto;
+		-webkit-overflow-scrolling: touch;
+		margin: auto 0
+	}
 }
-
 .dark-mode {
-  background-color: #333;
-  color: brown;
+	background-color: #333;
+	color: brown
 }
