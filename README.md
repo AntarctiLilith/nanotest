@@ -9,9 +9,5 @@ ex. Maxine Lilith Caruana
 
 
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
 #
 Made by humans

@@ -1,6 +1,10 @@
 .container {
+	align-items: center;
 	display: flex;
-	flex-wrap: wrap
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 15px;
+	width: fit-content
 }
 .container div {
 	margin: 5px
@@ -8,6 +12,24 @@
 .Player {
 	height: 270px;
 	width: 480px
+}
+.topLeft {
+	color: #fff;
+	text-shadow: 2px 2px 4px #000;
+  font-size: 32px;
+	top: 8px;
+	z-index: 1
+}
+.title, .topLeft {
+	position: relative;
+}
+.title {
+	color: #409cff;
+	text-align:center;
+  justify-items:space-evenly;
+}
+.subtitle{
+  margin: 2%;
 }
 .tg {
 	border-collapse: collapse;
@@ -32,14 +54,12 @@
 	color: #fff;
 	font-weight: 400
 }
-.tg .tg-baqh {
+.tg .tg-0s81, .tg .tg-baqh, .tg .tg-j0tj {
 	text-align: center;
 	vertical-align: top
 }
 .tg .tg-0s81, .tg .tg-j0tj {
-	background-color: #d2e4fc;
-	text-align: center;
-	vertical-align: top
+	background-color: #d2e4fc
 }
 .tg .tg-0s81, .tg .tg-if35 {
 	text-decoration: underline
