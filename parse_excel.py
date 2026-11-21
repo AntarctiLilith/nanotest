@@ -143,6 +143,60 @@ def to_playout_url(url):
     return url
 
 
+def stream_uuid(url):
+    """Extract the stream UUID from a playout or nanoplayer-embed URL, else None."""
+    if not url:
+        return None
+    m = re.search(r"group\.id=([0-9a-fA-F-]{36})", url)
+    if m:
+        return m.group(1)
+    m = re.search(r"/playout/([0-9a-fA-F-]{36})", url)
+    if m:
+        return m.group(1)
+    return None
+
+
+# Stream UUIDs whose duplicate rows should be merged into a single entry.
+# For each, the row that carries client IDs is kept; the ID-less duplicate is
+# dropped. (Other duplicate-UUID rows — e.g. Saturn / Live Football — are left
+# as separate rows on purpose.)
+MERGE_DUPLICATE_UUIDS = {
+    "81193ed4-9c6e-4da8-9e23-cd1f459268fb",  # Vivo Branded European Auto Roulette
+}
+
+
+def merge_duplicate_streams(rows):
+    """Collapse rows that share a stream UUID listed in MERGE_DUPLICATE_UUIDS.
+
+    Keeps the row that has the most client IDs (the 'real' one) and drops the
+    rest. Returns (merged_rows, dropped_names).
+    """
+    by_uuid = {}
+    for r in rows:
+        u = stream_uuid(r.get("url"))
+        if u in MERGE_DUPLICATE_UUIDS:
+            by_uuid.setdefault(u, []).append(r)
+
+    keep, dropped = [], []
+    merged_uuids = set()
+    for r in rows:
+        u = stream_uuid(r.get("url"))
+        if u in MERGE_DUPLICATE_UUIDS:
+            if u in merged_uuids:
+                dropped.append(r["name"])
+                continue
+            merged_uuids.add(u)
+            # keep the richest row (most client IDs) among this uuid's rows
+            group = by_uuid[u]
+            def id_count(x):
+                return sum(1 for k in x if k.endswith("_id"))
+            best = max(group, key=id_count)
+            keep.append(best)
+        else:
+            keep.append(r)
+    return keep, dropped
+
+
 def parse_religa(ws):
     out = []
     for r in range(3, ws.max_row + 1):
@@ -169,6 +223,9 @@ def parse_religa(ws):
             "local_remote": clean(ws.cell(r, 13).value),
         }
         out.append({k: v for k, v in entry.items() if v is not None})
+    out, dropped = merge_duplicate_streams(out)
+    for n in dropped:
+        print(f"  [merge] dropped duplicate row: {n!r}")
     return out
 
 

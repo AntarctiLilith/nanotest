@@ -440,17 +440,6 @@
         "local_remote": "Local"
       },
       {
-        "name": "Vivo Branded Roulette European Auto Roulette",
-        "url": "https://demo.nanocosmos.de/nanoplayer/embed/2.0.0/nanoplayer.html?group.id=81193ed4-9c6e-4da8-9e23-cd1f459268fb",
-        "playout_url": "https://dashboard.nanostream.cloud/playout/81193ed4-9c6e-4da8-9e23-cd1f459268fb",
-        "category": "Auto Roulette",
-        "switcher": "No",
-        "partner": "Religa",
-        "location": "Auto Roulette Studio",
-        "country": "Malta",
-        "local_remote": "Local"
-      },
-      {
         "name": "Admiral Live Blackjack",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/6fc64c3e-db44-4484-a59c-5e6accd262e2",
         "playout_url": "https://dashboard.nanostream.cloud/playout/6fc64c3e-db44-4484-a59c-5e6accd262e2",
