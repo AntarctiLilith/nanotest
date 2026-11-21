@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Streaming Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Streaming Dashboard</h1>
+        <button id="dark-mode-toggle">Toggle Dark Mode</button>
+    </header>
+    
+    <main>
+        <div id="config-error"></div>
+        
+        <section id="dashboard">
+            <h2>Live Streams</h2>
+            <div id="loading-indicator" class="loading">
+                <p>Loading streams...</p>
+            </div>
+            <table id="streams-table">
+                <thead>
+                    <tr>
+                        <th>Thumbnail</th>
+                        <th>Stream Name</th>
+                        <th>Category</th>
+                        <th>Status</th>
+                        <th>Quality</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody id="streams-tbody">
+                    <!-- Streams will be dynamically loaded here -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+    
+    <script src="js/config.js"></script>
+    <script src="js/dark-mode.js"></script>
+</body>
+</html>

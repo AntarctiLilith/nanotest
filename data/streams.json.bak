@@ -1,0 +1,1080 @@
+{
+  "sheets": {
+    "Religa": [
+      {
+        "name": "Real Casino Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/6be675d0-be19-46a4-8141-bbe05957431f",
+        "category": "Hybrid Roulette",
+        "switcher": "Yes",
+        "religa_id": "74",
+        "ezugi_id": "611000",
+        "vivo_id": "183",
+        "lucky_streak_id": "29",
+        "alg_id": "1",
+        "partner": "Religa",
+        "location": "Portomaso Casino",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Blaze Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/ac6c4e90-dc9e-4641-bc51-15d26f7f8095",
+        "category": "Hybrid Roulette",
+        "switcher": "Yes",
+        "religa_id": "78",
+        "ezugi_id": "611001",
+        "lucky_streak_id": "62",
+        "alg_id": "3",
+        "partner": "Religa",
+        "location": "Portomaso Casino",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Lumia Auto Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/c07180b9-c510-4d52-9c6e-21ce7aa42b62",
+        "category": "Auto Roulette",
+        "switcher": "No",
+        "religa_id": "76",
+        "partner": "Religa",
+        "location": "Portomaso Casino",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "VIP Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/74fd65a3-6802-428f-9d4a-e8129e3caf78",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "religa_id": "79",
+        "ezugi_id": "611007",
+        "vivo_id": "244",
+        "alg_id": "4",
+        "partner": "Religa",
+        "location": "Portomaso Casino",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Triple Way",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/8ada91d9-6042-4fb3-99a5-60bad691a74f",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "religa_id": "87",
+        "partner": "Religa",
+        "location": "Portomaso Casino",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Roulette 360",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/74e61978-0b01-4bf4-8e62-c7b3013ddfac",
+        "category": "Hybrid Roulette",
+        "switcher": "Yes",
+        "religa_id": "77",
+        "ezugi_id": "611003",
+        "vivo_id": "245",
+        "lucky_streak_id": "128",
+        "alg_id": "37",
+        "partner": "Religa",
+        "location": "Oracle Casino",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Neon Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/9987d377-2930-4648-b0a2-7760873e4771",
+        "category": "Branded  Roulette",
+        "switcher": "Yes",
+        "religa_id": "89",
+        "partner": "Religa",
+        "location": "Green Screen Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Prism Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/8c40f1e5-c6ef-496f-b793-dac28e032011",
+        "category": "Branded  Roulette",
+        "switcher": "Yes",
+        "religa_id": "83",
+        "alg_id": "81",
+        "partner": "Religa",
+        "location": "Green Screen Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Rooftop",
+        "url": "https://dashboard.nanostream.cloud/playout/4566974f-e24d-45cb-a631-760e9bd02274",
+        "category": "Branded  Roulette",
+        "switcher": "Yes",
+        "religa_id": "46",
+        "alg_id": "46",
+        "partner": "Religa",
+        "location": "Green Screen Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "1xbet (3xwin)",
+        "url": "https://dashboard.nanostream.cloud/playout/cb2e7626-c5c6-4c74-bc4d-9b9af1fd1572",
+        "category": "Branded  Roulette",
+        "switcher": "Yes",
+        "religa_id": "42",
+        "alg_id": "42",
+        "partner": "Religa",
+        "location": "Green Screen Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Exclusive VIP Roulette",
+        "url": "https://demo.nanocosmos.de/nanoplayer/embed/2.0.0/nanoplayer.html?group.id=36bd3965-721a-4dfb-b898-beddbb66c60b&_gl=1*o0cc6b*_gcl_au*MTU2ODA5MDUzLjE3ODIyMDQ3Njk.*_ga*MTU4ODEyODc2NC4xNzgyMjA0NzY5*_ga_Z2F96QJYN7*czE3ODIyMDQ3NjgkbzEkZzAkdDE3ODIyMDQ3NzEkajU3JGwwJGgw",
+        "category": "Branded  Roulette",
+        "switcher": "Yes",
+        "partner": "Religa",
+        "location": "Green Screen Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Live Football Roulette",
+        "url": "https://demo.nanocosmos.de/nanoplayer/embed/2.0.0/nanoplayer.html?group.id=2544c6d5-ecbe-4bfd-b964-a2f1ccd23b78&_gl=1*xvtmnl*_gcl_au*MTU2ODA5MDUzLjE3ODIyMDQ3Njk.*_ga*MTU4ODEyODc2NC4xNzgyMjA0NzY5*_ga_Z2F96QJYN7*czE3ODIyMDQ3NjgkbzEkZzEkdDE3ODIyMDQ5MDAkajUzJGwwJGgw",
+        "category": "Branded  Roulette",
+        "switcher": "Yes",
+        "religa_id": "49",
+        "partner": "Religa",
+        "location": "Green Screen Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Fortune DROP",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/59dbd70b-b019-4ec5-bc7b-5299834f87f8",
+        "category": "Game Show",
+        "switcher": "Yes",
+        "partner": "EEZE",
+        "location": "-4",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "MAHNJONG",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/1203ae6f-32e1-46a1-b01f-43ee1631ab87",
+        "category": "Game Show",
+        "switcher": "Yes",
+        "partner": "EEZE",
+        "location": "-4",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "12D Thunder",
+        "url": "https://dashboard.nanostream.cloud/playout/473203c6-6435-4277-8900-0f50243789b4",
+        "category": "Game Show",
+        "switcher": "Yes",
+        "partner": "EEZE",
+        "location": "-4",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Red & White",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/b3155ab9-73ce-4aca-963d-6dd506405150?vtrans%5B…%5Dtrans2.width=852%20&vtrans2.height=480&startIndex=0",
+        "category": "Game Show",
+        "switcher": "Yes",
+        "partner": "EEZE",
+        "location": "-4",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Carnival Treasure",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/e7ebbfa1-57c8-41d6-a5bc-007ca0a43a22",
+        "category": "Game Show",
+        "switcher": "Yes",
+        "partner": "S.A",
+        "location": "-4",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "S.A Baccarat R01",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/e4bf7d6d-0ded-4c12-8848-6464c2398ba3",
+        "category": "Game Show",
+        "switcher": "Yes",
+        "partner": "S.A",
+        "location": "-3",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "S.A Baccarat R02",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/5f594972-789f-4fdd-a549-b2d0b6078577",
+        "category": "Game Show",
+        "switcher": "Yes",
+        "partner": "S.A",
+        "location": "-2",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Merit King",
+        "url": "https://demo.nanocosmos.de/nanoplayer/embed/2.0.0/nanoplayer.html?group.id=f9a95e0d-e004-4aaf-bd62-8db807b3a5d7&autoplay=true&muted=true&playsinline=1",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "ezugi_id": "611010",
+        "partner": "EZUGI",
+        "location": "-4",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Madrid Bet",
+        "url": "https://demo.nanocosmos.de/nanoplayer/embed/2.0.0/nanoplayer.html?group.id=6e6c4737-e787-4cab-a937-1616dd36748f&autoplay=true&muted=true&playsinline=1",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "ezugi_id": "611011",
+        "partner": "EZUGI",
+        "location": "-4",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "King Royal",
+        "url": "https://demo.nanocosmos.de/nanoplayer/embed/2.0.0/nanoplayer.html?group.id=558654bc-b7d9-4e2c-9d28-f8aad5ef1203&autoplay=true&muted=true&playsinline=1",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "ezugi_id": "611012",
+        "partner": "EZUGI",
+        "location": "-4",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Pusula Bet",
+        "url": "https://demo.nanocosmos.de/nanoplayer/embed/2.0.0/nanoplayer.html?group.id=6e70dd5a-d77b-4b4b-a6d1-abadf37c214c&autoplay=true&muted=true&playsinline=1",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "ezugi_id": "611009",
+        "partner": "EZUGI",
+        "location": "-4",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Turkish",
+        "url": "https://demo.nanocosmos.de/nanoplayer/embed/2.0.0/nanoplayer.html?group.id=b041b67c-030d-43e3-a082-b1e38866ce21&autoplay=true&muted=true&playsinline=1",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "ezugi_id": "611014",
+        "partner": "EZUGI",
+        "location": "-4",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Cryptobet",
+        "url": "https://demo.nanocosmos.de/nanoplayer/embed/2.0.0/nanoplayer.html?group.id=c80607b4-e254-461c-8648-6ff466995bed&autoplay=true&muted=true&playsinline=1",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "ezugi_id": "611013",
+        "partner": "EZUGI",
+        "location": "-4",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "VDCasino",
+        "url": "https://dashboard.nanostream.cloud/playout/b6ce6ddd-84d3-4803-a752-e798c80a39c1",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "ezugi_id": "611015",
+        "partner": "EZUGI",
+        "location": "-4",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "American Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/5a39161d-f11c-4de8-96b2-883e019990f5",
+        "category": "Auto Roulette",
+        "switcher": "Yes",
+        "religa_id": "70",
+        "alg_id": "30",
+        "partner": "Religa",
+        "location": "Auto Roulette Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Vivo Branded American Auto Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/8a22cb4e-e786-47ae-876b-8c6d83442595?security.jwtoken=eyJhbGciOiJFZERTQSIsImtpZCI6Im5hbm9feDI1NTE5IiwidHlwIjoiSldUIn0.eyJhdWQiOiJzcGxheSIsImV4cCI6MTc3NTA1MDUxMywiaWF0IjoxNzQzNTI2MjAyLCJpc3MiOiJuYW5vY29zbW9zIiwibmJmIjoxNzQzNTI2MjAyLCJzdHJlYW1zIjpbIndaczZvLVRLNjRjIiwid1pzNm8tNVNWU1YiLCJ3WnM2by1NUFQyViIsIndaczZvLUJGckhPIl0sInN1YiI6ImI0N2NjYTNhLTUwNDktNDQzOS05ZmE5LTNiYzZkM2QwODFlOSJ9.g2S62exvC07l9wY3vvFMTIjnPKTSx622_elFGWZAJjPabJAvOmBGGPtH_Yf45ySfEobF0WKOBl5xXKop0ObgDg",
+        "category": "Auto Roulette",
+        "switcher": "Yes",
+        "religa_id": "70",
+        "vivo_id": "417",
+        "partner": "Religa",
+        "location": "Auto Roulette Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Vivo Wow Vegas American Auto Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/5bd447bd-e1c7-4d8f-be73-a5d7fb57d362?security.jwtoken=eyJhbGciOiJFZERTQSIsImtpZCI6Im5hbm9feDI1NTE5IiwidHlwIjoiSldUIn0.eyJhdWQiOiJzcGxheSIsImV4cCI6MTc3NTIxNTc4OCwiaWF0IjoxNzQzNzc4MjcwLCJpc3MiOiJuYW5vY29zbW9zIiwibmJmIjoxNzQzNzc4MjcwLCJzdHJlYW1zIjpbIndaczZvLXZyTlBhIiwid1pzNm8tQnpqTGciLCJ3WnM2by1mWElxQyIsIndaczZvLUlOZkJwIl0sInN1YiI6ImI0N2NjYTNhLTUwNDktNDQzOS05ZmE5LTNiYzZkM2QwODFlOSJ9.JILiAaZqttUBDAxtOICAboRxp0aemaRqRxQBEUw6GGFCYRBBdi1Lq--X-BwoYPcsq6vscK_iMjI-cSAk7mFPCQ",
+        "category": "Auto Roulette",
+        "switcher": "Yes",
+        "religa_id": "70",
+        "vivo_id": "417",
+        "partner": "Religa",
+        "location": "Auto Roulette Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Las Vegas Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/fcaf5d39-3430-4584-bd8f-958e78eea360",
+        "category": "Auto Roulette",
+        "switcher": "No",
+        "religa_id": "71",
+        "alg_id": "31",
+        "partner": "Religa",
+        "location": "Auto Roulette Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Bets10 Lucky Zero",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/fc2abd99-2151-49dc-a00d-d56ebd51334c",
+        "category": "Auto Roulette",
+        "switcher": "Yes",
+        "religa_id": "92",
+        "partner": "Religa",
+        "location": "Auto Roulette Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Bond Roulette",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/254e072d-043e-4124-a611-eca2d7164abc",
+        "category": "Auto Roulette",
+        "switcher": "Yes",
+        "religa_id": "72",
+        "alg_id": "39",
+        "partner": "Religa",
+        "location": "Auto Roulette Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Vivo Branded European Auto Roulette",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/81193ed4-9c6e-4da8-9e23-cd1f459268fb?vtrans1.id=34d8f8f6-4c08-475e-9ccf-3670dd9fb3b8&vtrans1.bitrate=1200&vtrans1.fps=30&vtrans1.width=1280&vtrans1.height=720&vtrans2.id=c2a1200f-45fe-42d7-b7f6-f4546446a2f6&vtrans2.bitrate=640&vtrans2.fps=30&vtrans2.width=852%20&vtrans2.height=480&startIndex=0",
+        "category": "Auto Roulette",
+        "switcher": "Yes",
+        "religa_id": "72",
+        "vivo_id": "416",
+        "partner": "Religa",
+        "location": "Auto Roulette Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Vivo Wow Vegas Auto Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/99dfb37a-6d3d-4cb5-8076-9c8cebb29944?security.jwtoken=eyJhbGciOiJFZERTQSIsImtpZCI6Im5hbm9feDI1NTE5IiwidHlwIjoiSldUIn0.eyJhdWQiOiJzcGxheSIsImV4cCI6MTc3NTIyMzQyMCwiaWF0IjoxNzQzNzc4MjM3LCJpc3MiOiJuYW5vY29zbW9zIiwibmJmIjoxNzQzNzc4MjM3LCJzdHJlYW1zIjpbIndaczZvLWRYNWJ2Iiwid1pzNm8talNVWEMiLCJ3WnM2by1PMmlQYyIsIndaczZvLXlQb3ZBIl0sInN1YiI6ImI0N2NjYTNhLTUwNDktNDQzOS05ZmE5LTNiYzZkM2QwODFlOSJ9.1i564ZbKYDpaWbBrwIvuUmc4nOwycdqKvW53SnUnP51CJiYFQx8IdDJp2haI-zBPedAnukUpL8HqC46ITFiwCQ",
+        "category": "Auto Roulette",
+        "switcher": "Yes",
+        "religa_id": "72",
+        "vivo_id": "416",
+        "partner": "Religa",
+        "location": "Auto Roulette Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "TipoBet",
+        "url": "https://play.wingene.games/",
+        "category": "Auto Roulette",
+        "switcher": "Yes",
+        "religa_id": "19",
+        "partner": "Religa",
+        "location": "Auto Roulette Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Saturn Auto Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/b4950488-a96b-4c90-aeb1-4b2413d709cc",
+        "category": "Auto Roulette",
+        "switcher": "No",
+        "religa_id": "22",
+        "partner": "Religa",
+        "location": "Auto Roulette Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Live Football Auto-Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/b4950488-a96b-4c90-aeb1-4b2413d709cc",
+        "category": "Auto Roulette",
+        "switcher": "No",
+        "partner": "Religa",
+        "location": "Auto Roulette Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "VIVO Branded Roulette European Auto Roulette",
+        "url": "https://demo.nanocosmos.de/nanoplayer/embed/2.0.0/nanoplayer.html?group.id=81193ed4-9c6e-4da8-9e23-cd1f459268fb&autoplay=true&muted=true&playsinline=1",
+        "category": "Auto Roulette",
+        "switcher": "No",
+        "partner": "Religa",
+        "location": "Auto Roulette Studio",
+        "country": "Malta",
+        "local_remote": "Local"
+      },
+      {
+        "name": "Admiral Live Blackjack",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/6fc64c3e-db44-4484-a59c-5e6accd262e2",
+        "category": "Live Blackjack",
+        "switcher": "No",
+        "religa_id": "373",
+        "partner": "Religa",
+        "location": "Admiral Casino",
+        "country": "Croatia",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Admiral Live High Stake Blackjack",
+        "url": "https://dashboard.nanostream.cloud/playout/903ba1f3-2c22-4031-afca-6cdc9cc5e74f",
+        "category": "Live Blackjack",
+        "switcher": "No",
+        "religa_id": "382",
+        "partner": "Religa",
+        "location": "Admiral Casino",
+        "country": "Croatia",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Admiral Titan Fazi Auto Roulette",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/8b2b6809-6e56-4f80-82bb-cd4ea1897c0a",
+        "category": "Auto Roulette",
+        "switcher": "Yes",
+        "religa_id": "97",
+        "partner": "Religa",
+        "location": "Admiral Casino",
+        "country": "Croatia",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Admiral Saturn Auto Roulette",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/b29b4df4-acce-4e38-aec3-68f63d22ef43",
+        "category": "Auto Roulette",
+        "switcher": "No",
+        "religa_id": "96",
+        "partner": "Religa",
+        "location": "Admiral Casino",
+        "country": "Croatia",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Admiral Live Roulette",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/9a7da766-c6c5-49fb-bb57-714b52f45813",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "religa_id": "95",
+        "partner": "Religa",
+        "location": "Admiral Casino",
+        "country": "Croatia",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Admiral Premium Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/bc01dc5f-334c-4430-b21a-f0c9cc8e5bfc",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "religa_id": "63",
+        "partner": "Religa",
+        "location": "Admiral Casino",
+        "country": "Croatia",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Germania Auto Roulette",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/449046a5-99f2-4244-81d7-66a8040a77ec",
+        "category": "Hybrid External",
+        "switcher": "Yes",
+        "religa_id": "80",
+        "partner": "Religa",
+        "location": "Germania Casino",
+        "country": "Croatia",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Germania BJ",
+        "url": "https://dashboard.nanostream.cloud/playout/a5294f96-62b2-449f-9ecd-0b3156239202",
+        "category": "Live Blackjack",
+        "switcher": "No",
+        "religa_id": "381",
+        "partner": "Religa",
+        "location": "Germania Casino",
+        "country": "Croatia",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Germania Hybrid Roulette",
+        "url": "https://dashboard.nanostream.cloud/playout/060fd045-a3e6-4d9e-aaf3-a20a153313f4",
+        "category": "Hybrid Roulette",
+        "switcher": "Yes",
+        "religa_id": "65",
+        "partner": "Religa",
+        "location": "Germania Casino",
+        "country": "Croatia",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Dice BJ1",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/0fb9920e-96e9-4450-9b81-3b110c2fbf3d",
+        "category": "Live Blackjack",
+        "switcher": "No",
+        "religa_id": "374",
+        "partner": "Religa",
+        "location": "Nero Interactive (Pasha)",
+        "country": "Bulgaria",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Dice BJ2",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/7ce02a6f-8ca9-481d-bdc8-97e8850332f6",
+        "category": "Live Blackjack",
+        "switcher": "No",
+        "religa_id": "375",
+        "partner": "Religa",
+        "location": "Nero Interactive (Pasha)",
+        "country": "Bulgaria",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Dice BJ3",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/d224756d-a65a-48d0-bd8d-d3dc6e11e3c7",
+        "category": "Live Blackjack",
+        "switcher": "No",
+        "religa_id": "376",
+        "partner": "Religa",
+        "location": "Nero Interactive (Pasha)",
+        "country": "Bulgaria",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Dice BJ4",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/e7df66ad-c251-4337-ba47-e2829b552797",
+        "category": "Live Blackjack",
+        "switcher": "No",
+        "religa_id": "377",
+        "partner": "Religa",
+        "location": "Nero Interactive (Pasha)",
+        "country": "Bulgaria",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Dice BJ5",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/961400da-9117-4b89-b05c-4b157ffcc485",
+        "category": "Live Blackjack",
+        "switcher": "No",
+        "religa_id": "378",
+        "partner": "Religa",
+        "location": "Nero Interactive (Pasha)",
+        "country": "Bulgaria",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Dice BJ6",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/b78230ba-cd04-4796-842d-54f51ed82982",
+        "category": "Live Blackjack",
+        "switcher": "No",
+        "religa_id": "379",
+        "partner": "Religa",
+        "location": "Nero Interactive (Pasha)",
+        "country": "Bulgaria",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Dice Auto Roulette",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/c91dc79b-ed8f-44e9-bff8-4cf6f16b181f",
+        "category": "Auto Roulette",
+        "switcher": "No",
+        "religa_id": "54",
+        "partner": "Religa",
+        "location": "Nero Interactive (Pasha)",
+        "country": "Bulgaria",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Dice VIP Roullete",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/e74d231d-f5e0-4ac0-b44a-335e1a5e6f5b",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "religa_id": "53",
+        "partner": "Religa",
+        "location": "Nero Interactive (Pasha)",
+        "country": "Bulgaria",
+        "local_remote": "Remote"
+      },
+      {
+        "name": "Dice Turkish Roulette",
+        "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/4429578a-d7ae-4e79-a426-9a97d4edc74f",
+        "category": "Live Roulette",
+        "switcher": "Yes",
+        "religa_id": "52",
+        "partner": "Religa",
+        "location": "Nero Interactive (Pasha)",
+        "country": "Bulgaria",
+        "local_remote": "Remote"
+      }
+    ],
+    "Eeze": [
+      {
+        "name": "D59",
+        "table_id": "D59",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 1",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D65",
+        "table_id": "D65",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 1",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D66",
+        "table_id": "D66",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 1",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D67",
+        "table_id": "D67",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 1",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D68",
+        "table_id": "D68",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 1",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D69",
+        "table_id": "D69",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 1",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D21",
+        "table_id": "D21",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 1",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D29",
+        "table_id": "D29",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 1",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D30",
+        "table_id": "D30",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 1",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D51",
+        "table_id": "D51",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 2",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D52",
+        "table_id": "D52",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 2",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D53",
+        "table_id": "D53",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 2",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D60",
+        "table_id": "D60",
+        "category": "Live DragonTiger",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 2",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D25",
+        "table_id": "D25",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 2",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D26",
+        "table_id": "D26",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 2",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D27",
+        "table_id": "D27",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 2",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D28",
+        "table_id": "D28",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 2",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D001",
+        "table_id": "D001",
+        "category": "Live Roulette",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 3",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D54",
+        "table_id": "D54",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 3",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D55",
+        "table_id": "D55",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 3",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D56",
+        "table_id": "D56",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 3",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D57",
+        "table_id": "D57",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 3",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D58",
+        "table_id": "D58",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 3",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D22",
+        "table_id": "D22",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 3",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D23",
+        "table_id": "D23",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 3",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D24",
+        "table_id": "D24",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Zone 3",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D10",
+        "table_id": "D10",
+        "category": "Sic Bo",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE StudioSic Bo",
+        "local_remote": "Local"
+      },
+      {
+        "name": "D11",
+        "table_id": "D11",
+        "category": "Sic Bo",
+        "partner": "Eeze",
+        "location": "Portomaso Casino EEZE Studio Sic Bo",
+        "local_remote": "Local"
+      },
+      {
+        "name": "T032",
+        "table_id": "T032",
+        "category": "Dragon Tiger",
+        "partner": "Eeze",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "T030",
+        "table_id": "T030",
+        "category": "Dragon Tiger",
+        "partner": "Eeze",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "T023",
+        "table_id": "T023",
+        "category": "Roulette",
+        "partner": "Eeze",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "T024",
+        "table_id": "T024",
+        "category": "LiveRoulette",
+        "partner": "Eeze",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "T005",
+        "table_id": "T005",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "T002",
+        "table_id": "T002",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "T003",
+        "table_id": "T003",
+        "category": "Live Blackjack",
+        "partner": "Eeze",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "T014",
+        "table_id": "T014",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "T011",
+        "table_id": "T011",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "T013",
+        "table_id": "T013",
+        "category": "Live Baccarat",
+        "partner": "Eeze",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      }
+    ],
+    "Red Panda": [
+      {
+        "name": "E01",
+        "table_id": "E01",
+        "category": "Live Baccarat",
+        "partner": "Red Panda",
+        "location": "Red Panda Studio, Level -5",
+        "local_remote": "Local"
+      },
+      {
+        "name": "E02",
+        "table_id": "E02",
+        "category": "Live Baccarat",
+        "partner": "Red Panda",
+        "location": "Red Panda Studio, Level -5",
+        "local_remote": "Local"
+      },
+      {
+        "name": "E03",
+        "table_id": "E03",
+        "category": "Live Baccarat",
+        "partner": "Red Panda",
+        "location": "Red Panda Studio, Level -5",
+        "local_remote": "Local"
+      },
+      {
+        "name": "E05",
+        "table_id": "E05",
+        "category": "Live Baccarat",
+        "partner": "Red Panda",
+        "location": "Red Panda Studio, Level -5",
+        "local_remote": "Local"
+      },
+      {
+        "name": "E06",
+        "table_id": "E06",
+        "category": "Speed Baccarat",
+        "partner": "Red Panda",
+        "location": "Red Panda Studio, Level -5",
+        "local_remote": "Local"
+      },
+      {
+        "name": "E07",
+        "table_id": "E07",
+        "category": "Speed Baccarat",
+        "partner": "Red Panda",
+        "location": "Red Panda Studio, Level -5",
+        "local_remote": "Local"
+      },
+      {
+        "name": "E08",
+        "table_id": "E08",
+        "category": "Dragon Tiger",
+        "partner": "Red Panda",
+        "location": "Red Panda Studio, Level -5",
+        "local_remote": "Local"
+      },
+      {
+        "name": "E09",
+        "table_id": "E09",
+        "category": "Dragon Tiger",
+        "partner": "Red Panda",
+        "location": "Red Panda Studio, Level -5",
+        "local_remote": "Local"
+      },
+      {
+        "name": "E10",
+        "table_id": "E10",
+        "category": "Live Roulette",
+        "partner": "Red Panda",
+        "location": "Red Panda Studio, Level -5",
+        "local_remote": "Local"
+      },
+      {
+        "name": "E11",
+        "table_id": "E11",
+        "category": "Live Roulette",
+        "partner": "Red Panda",
+        "location": "Red Panda Studio, Level -5",
+        "local_remote": "Local"
+      },
+      {
+        "name": "9001",
+        "table_id": "9001",
+        "category": "Live Baccarat",
+        "partner": "Red Panda",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "9002",
+        "table_id": "9002",
+        "category": "Live Baccarat",
+        "partner": "Red Panda",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "9003",
+        "table_id": "9003",
+        "category": "Live Baccarat",
+        "partner": "Red Panda",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "9004",
+        "table_id": "9004",
+        "category": "Live Baccarat",
+        "partner": "Red Panda",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "9007",
+        "table_id": "9007",
+        "category": "Dragon Tiger",
+        "partner": "Red Panda",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "9008",
+        "table_id": "9008",
+        "category": "Dragon Tiger",
+        "partner": "Red Panda",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      },
+      {
+        "name": "9009",
+        "table_id": "9009",
+        "category": "Live Roulette",
+        "partner": "Red Panda",
+        "location": "Training Studio, Spinola",
+        "local_remote": "Local"
+      }
+    ]
+  }
+}
