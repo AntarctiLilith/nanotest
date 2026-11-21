@@ -58,6 +58,7 @@
       {
         "name": "Triple Way",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/8ada91d9-6042-4fb3-99a5-60bad691a74f",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/8ada91d9-6042-4fb3-99a5-60bad691a74f",
         "category": "Live Roulette",
         "switcher": "Yes",
         "religa_id": "87",
@@ -69,6 +70,7 @@
       {
         "name": "Roulette 360",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/74e61978-0b01-4bf4-8e62-c7b3013ddfac",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/74e61978-0b01-4bf4-8e62-c7b3013ddfac",
         "category": "Hybrid Roulette",
         "switcher": "Yes",
         "religa_id": "77",
@@ -154,6 +156,7 @@
       {
         "name": "Fortune Drop",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/59dbd70b-b019-4ec5-bc7b-5299834f87f8",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/59dbd70b-b019-4ec5-bc7b-5299834f87f8",
         "category": "Game Show",
         "switcher": "Yes",
         "partner": "Eeze",
@@ -163,6 +166,7 @@
       {
         "name": "Mahjong",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/1203ae6f-32e1-46a1-b01f-43ee1631ab87",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/1203ae6f-32e1-46a1-b01f-43ee1631ab87",
         "category": "Game Show",
         "switcher": "Yes",
         "partner": "Eeze",
@@ -181,6 +185,7 @@
       {
         "name": "Red & White",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/b3155ab9-73ce-4aca-963d-6dd506405150",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/b3155ab9-73ce-4aca-963d-6dd506405150",
         "category": "Game Show",
         "switcher": "Yes",
         "partner": "Eeze",
@@ -190,6 +195,7 @@
       {
         "name": "Carnival Treasure",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/e7ebbfa1-57c8-41d6-a5bc-007ca0a43a22",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/e7ebbfa1-57c8-41d6-a5bc-007ca0a43a22",
         "category": "Game Show",
         "switcher": "Yes",
         "partner": "S.A",
@@ -199,6 +205,7 @@
       {
         "name": "S.A Baccarat R01",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/e4bf7d6d-0ded-4c12-8848-6464c2398ba3",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/e4bf7d6d-0ded-4c12-8848-6464c2398ba3",
         "category": "Game Show",
         "switcher": "Yes",
         "partner": "S.A",
@@ -208,6 +215,7 @@
       {
         "name": "S.A Baccarat R02",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/5f594972-789f-4fdd-a549-b2d0b6078577",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/5f594972-789f-4fdd-a549-b2d0b6078577",
         "category": "Game Show",
         "switcher": "Yes",
         "partner": "S.A",
@@ -341,6 +349,7 @@
       {
         "name": "Bets10 Lucky Zero",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/fc2abd99-2151-49dc-a00d-d56ebd51334c",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/fc2abd99-2151-49dc-a00d-d56ebd51334c",
         "category": "Auto Roulette",
         "switcher": "Yes",
         "religa_id": "92",
@@ -352,6 +361,7 @@
       {
         "name": "Bond Roulette",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/254e072d-043e-4124-a611-eca2d7164abc",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/254e072d-043e-4124-a611-eca2d7164abc",
         "category": "Auto Roulette",
         "switcher": "Yes",
         "religa_id": "72",
@@ -364,6 +374,7 @@
       {
         "name": "Vivo Branded European Auto Roulette",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/81193ed4-9c6e-4da8-9e23-cd1f459268fb",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/81193ed4-9c6e-4da8-9e23-cd1f459268fb",
         "category": "Auto Roulette",
         "switcher": "Yes",
         "religa_id": "72",
@@ -442,6 +453,7 @@
       {
         "name": "Admiral Live Blackjack",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/6fc64c3e-db44-4484-a59c-5e6accd262e2",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/6fc64c3e-db44-4484-a59c-5e6accd262e2",
         "category": "Live Blackjack",
         "switcher": "No",
         "religa_id": "373",
@@ -464,6 +476,7 @@
       {
         "name": "Admiral Titan Fazi Auto Roulette",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/8b2b6809-6e56-4f80-82bb-cd4ea1897c0a",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/8b2b6809-6e56-4f80-82bb-cd4ea1897c0a",
         "category": "Auto Roulette",
         "switcher": "Yes",
         "religa_id": "97",
@@ -475,6 +488,7 @@
       {
         "name": "Admiral Saturn Auto Roulette",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/b29b4df4-acce-4e38-aec3-68f63d22ef43",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/b29b4df4-acce-4e38-aec3-68f63d22ef43",
         "category": "Auto Roulette",
         "switcher": "No",
         "religa_id": "96",
@@ -486,6 +500,7 @@
       {
         "name": "Admiral Live Roulette",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/9a7da766-c6c5-49fb-bb57-714b52f45813",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/9a7da766-c6c5-49fb-bb57-714b52f45813",
         "category": "Live Roulette",
         "switcher": "Yes",
         "religa_id": "95",
@@ -508,6 +523,7 @@
       {
         "name": "Germania Auto Roulette",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/449046a5-99f2-4244-81d7-66a8040a77ec",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/449046a5-99f2-4244-81d7-66a8040a77ec",
         "category": "Hybrid External",
         "switcher": "Yes",
         "religa_id": "80",
@@ -541,6 +557,7 @@
       {
         "name": "Dice BJ1",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/0fb9920e-96e9-4450-9b81-3b110c2fbf3d",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/0fb9920e-96e9-4450-9b81-3b110c2fbf3d",
         "category": "Live Blackjack",
         "switcher": "No",
         "religa_id": "374",
@@ -552,6 +569,7 @@
       {
         "name": "Dice BJ2",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/7ce02a6f-8ca9-481d-bdc8-97e8850332f6",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/7ce02a6f-8ca9-481d-bdc8-97e8850332f6",
         "category": "Live Blackjack",
         "switcher": "No",
         "religa_id": "375",
@@ -563,6 +581,7 @@
       {
         "name": "Dice BJ3",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/d224756d-a65a-48d0-bd8d-d3dc6e11e3c7",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/d224756d-a65a-48d0-bd8d-d3dc6e11e3c7",
         "category": "Live Blackjack",
         "switcher": "No",
         "religa_id": "376",
@@ -574,6 +593,7 @@
       {
         "name": "Dice BJ4",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/e7df66ad-c251-4337-ba47-e2829b552797",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/e7df66ad-c251-4337-ba47-e2829b552797",
         "category": "Live Blackjack",
         "switcher": "No",
         "religa_id": "377",
@@ -585,6 +605,7 @@
       {
         "name": "Dice BJ5",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/961400da-9117-4b89-b05c-4b157ffcc485",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/961400da-9117-4b89-b05c-4b157ffcc485",
         "category": "Live Blackjack",
         "switcher": "No",
         "religa_id": "378",
@@ -596,6 +617,7 @@
       {
         "name": "Dice BJ6",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/b78230ba-cd04-4796-842d-54f51ed82982",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/b78230ba-cd04-4796-842d-54f51ed82982",
         "category": "Live Blackjack",
         "switcher": "No",
         "religa_id": "379",
@@ -607,6 +629,7 @@
       {
         "name": "Dice Auto Roulette",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/c91dc79b-ed8f-44e9-bff8-4cf6f16b181f",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/c91dc79b-ed8f-44e9-bff8-4cf6f16b181f",
         "category": "Auto Roulette",
         "switcher": "No",
         "religa_id": "54",
@@ -618,6 +641,7 @@
       {
         "name": "Dice VIP Roulette",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/e74d231d-f5e0-4ac0-b44a-335e1a5e6f5b",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/e74d231d-f5e0-4ac0-b44a-335e1a5e6f5b",
         "category": "Live Roulette",
         "switcher": "Yes",
         "religa_id": "53",
@@ -629,6 +653,7 @@
       {
         "name": "Dice Turkish Roulette",
         "url": "https://bintu-cloud-frontend.nanocosmos.de/playout/4429578a-d7ae-4e79-a426-9a97d4edc74f",
+        "playout_url": "https://dashboard.nanostream.cloud/playout/4429578a-d7ae-4e79-a426-9a97d4edc74f",
         "category": "Live Roulette",
         "switcher": "Yes",
         "religa_id": "52",

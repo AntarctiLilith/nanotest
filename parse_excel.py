@@ -126,10 +126,18 @@ def to_playout_url(url):
 
     If the stored URL is a nanoplayer embed (has group.id=<uuid>), convert it to
     the full dashboard playout page. Otherwise return as-is.
+
+    The playout page is always served from ``dashboard.nanostream.cloud`` — the
+    ``bintu-cloud-frontend.nanocosmos.de`` variant of the same /playout/<uuid>
+    path redirects to a login wall, so any such URL is rewritten to the
+    nanostream domain (which plays without authentication).
     """
     if not url:
         return url
     m = re.search(r"group\.id=([0-9a-fA-F-]{36})", url)
+    if m:
+        return f"https://dashboard.nanostream.cloud/playout/{m.group(1)}"
+    m = re.search(r"/playout/([0-9a-fA-F-]{36})", url)
     if m:
         return f"https://dashboard.nanostream.cloud/playout/{m.group(1)}"
     return url
@@ -143,10 +151,11 @@ def parse_religa(ws):
             continue
         link_cell = ws.cell(r, 9)
         url = clean_url(link_cell.hyperlink.target if link_cell.hyperlink else None)
+        playout = to_playout_url(url) if url else None
         entry = {
             "name": name,
             "url": url,
-            "playout_url": to_playout_url(url) if url and "group.id=" in url else None,
+            "playout_url": playout if playout and playout != url else None,
             "category": norm_category(ws.cell(r, 2).value),
             "switcher": norm_switcher(ws.cell(r, 10).value),
             "religa_id": clean(ws.cell(r, 4).value),

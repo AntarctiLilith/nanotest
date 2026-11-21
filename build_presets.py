@@ -52,13 +52,21 @@ def to_playout_url(url):
     """Return the clean playout URL (full dashboard page) for the "Open" link.
 
     - nanoplayer embed (has group.id=<uuid>) -> dashboard.nanostream.cloud/playout/<uuid>
-    - already a /playout/<uuid> URL -> return as-is
+    - already a /playout/<uuid> URL -> rewrite to the nanostream domain
     - anything else -> return as-is
+
+    The playout page is always served from ``dashboard.nanostream.cloud`` — the
+    ``bintu-cloud-frontend.nanocosmos.de`` variant of the same /playout/<uuid>
+    path redirects to a login wall, so it is rewritten to the nanostream domain
+    (which plays without authentication).
     """
     if not url:
         return url
     import re
     m = re.search(r"group\.id=([0-9a-fA-F-]{36})", url)
+    if m:
+        return f"https://dashboard.nanostream.cloud/playout/{m.group(1)}"
+    m = re.search(r"/playout/([0-9a-fA-F-]{36})", url)
     if m:
         return f"https://dashboard.nanostream.cloud/playout/{m.group(1)}"
     return url
